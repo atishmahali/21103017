@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "ProductName": "Nothing Phone 2",
+        "price": 37000,
+        "rating": 4.7,
+        "discount": 20,
+        "availability": "out-of-stock"
+      },
+      {
+        "ProductName": "Nothing Phone 2a",
+        "price": 21999,
+        "rating": 4.5,
+        "discount": 15,
+        "availability": "yes"
+      },
+      {
+        "ProductName": "iphone 15",
+        "price": 57999,
+        "rating": 4.5,
+        "discount": 10,
+        "availability": "yes"
+      },
+      {
+        "ProductName": "iphone 14",
+        "price": 47999,
+        "rating": 4.5,
+        "discount": 20,
+        "availability": "yes"
+      },
+      {
+        "ProductName": "pixel 3a",
+        "price": 17999,
+        "rating": 4.5,
+        "discount": 60,
+        "availability": "out-of-stock"
+      }
+    ]
+  }
+  
